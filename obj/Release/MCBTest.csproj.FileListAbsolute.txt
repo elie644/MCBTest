@@ -1,0 +1,2 @@
+C:\Users\RATSOA\source\repos\MCBTest\obj\Release\MCBTest.csprojAssemblyReference.cache
+C:\Users\RATSOA\source\repos\MCBTest\obj\Release\MCBTest.csproj.CoreCompileInputs.cache
